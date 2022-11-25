@@ -154,7 +154,8 @@ header .first-click:hover{
 
 .phone{
     padding: 10vmin 0;
-    width: 1800px;
+    width: 1840px;
+    padding-right: 40px;
 }
 
 .section-2{
